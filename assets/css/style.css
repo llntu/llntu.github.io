@@ -136,6 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo a {
   color: #16507b;
+  text-decoration: none;
 }
 #header .logo img {
   max-height: 40px;
@@ -189,6 +190,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 30px;
   border-radius: 4px;
   color: #fff;
+  text-decoration: none;
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
@@ -209,12 +211,16 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   border-radius: 4px;
 }
+.navbar .dropdown a {
+  text-decoration: none;
+}
 .navbar .dropdown ul li {
   min-width: 200px;
 }
 .navbar .dropdown ul a {
   padding: 10px 20px;
   text-transform: none;
+  text-decoration: none;
 }
 .navbar .dropdown ul a i {
   font-size: 12px;
@@ -384,6 +390,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 30px;
   color: #fff;
   background: #2487ce;
+  text-decoration: none;
 }
 #hero .btn-get-started:hover {
   background: #3194db;
@@ -549,6 +556,7 @@ section {
 .services .icon-box h4 a {
   color: #124265;
   transition: ease-in-out 0.3s;
+  text-decoration: none;
 }
 .services .icon-box p {
   line-height: 24px;

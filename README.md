@@ -30,7 +30,7 @@
 | Repositories | 簡述 |
 | --- | --- |
 | [takelaweasy](https://github.com/ntnu-lab/takelaweasy) | 案例類型與判例引用圖譜檢索 |
-|  | 定型畫契約自動審閱系統 |
+| [定型畫契約自動審閱系統](http://140.112.158.83:9142/index)| 定型畫契約自動審閱系統 |
 
 #### 數位人文相關網頁
 | Repositories | 簡述 |

@@ -29,8 +29,8 @@
 #### 研究室繼受系統
 | Repositories | 簡述 |
 | --- | --- |
-| [takelaweasy](https://github.com/ntnu-lab/takelaweasy) | 案例類型與判例引用圖譜檢索 |
-| [定型畫契約自動審閱系統](http://140.112.158.83:9142/index)| 定型畫契約自動審閱系統 |
+| [takelaweasy](https://github.com/ntnu-lab/takelaweasy) | 案例類型與判例引用圖譜檢索(data 見 666 本機) |
+| [定型畫契約自動審閱系統](http://140.112.158.83:9142/index)| 定型畫契約自動審閱系統(專案見 666 本機) |
 
 #### 數位人文相關網頁
 | Repositories | 簡述 |

@@ -1,5 +1,3 @@
-Go https://ntnu-lab.github.io/ to see our website
-
 <!-- =======================================================
 Template Information
 Template Name: OnePage

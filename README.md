@@ -1,1 +1,1 @@
-### Go https://ntnu-lab.github.io/ to see our website
+### Go https://llntu.github.io/ to see our website
